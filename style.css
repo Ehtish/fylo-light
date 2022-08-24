@@ -87,6 +87,9 @@ strong{
 small{
     font-size: 10px;
 }
+.cta-text{
+    max-width: 48ch;
+}
 .cta,.footer,.f-nav-link,.fab{
     color: var(--neutral-100);
 }
